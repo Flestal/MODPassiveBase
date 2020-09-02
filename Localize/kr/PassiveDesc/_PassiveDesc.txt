@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1700000">
+    <Name>갈라지는 공격</Name>
+    <Desc>공격 주사위 적중 시 무작위 적 1명에게 주사위 값만큼 피해</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1700001">
+    <Name>갈라지는 공격</Name>
+    <Desc>피격 시 무작위 아군 1명에게 주사위 값만큼 피해</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1700002">
+    <Name>과한 휴식</Name>
+    <Desc>한 막 동안 책장을 사용하지 않으면 막 종료 시 모든 책장을 버리고 그 수만큼 힘, 인내 부여, 책장을 1장 뽑음/Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1700003">
+    <Name>전투 중독</Name>
+    <Desc>한 막 동안 책장을 3장 이상 사용하면 책장을 2장 뽑고 다음 막에 힘 2, 무장 해제 3 부여/Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

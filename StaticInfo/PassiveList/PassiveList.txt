@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PassiveXmlRoot>
+
+  <Passive ID="1500000">
+  </Passive>
+  <Passive ID="1500001">
+  </Passive>
+  <Passive ID="1500002">
+  </Passive>
+  <Passive ID="1500003">
+  </Passive>
+  <Passive ID="1500004">
+  </Passive>
+  <Passive ID="1500005">
+  </Passive>
+  <Passive ID="1500006">
+  </Passive>
+  <Passive ID="1500007">
+  </Passive>
+  <Passive ID="1500008">
+  </Passive>
+  <Passive ID="1500009">
+  </Passive>
+  <Passive ID="1500010">
+  </Passive>
+  <Passive ID="1700000">
+  </Passive>
+  <Passive ID="1700001">
+  </Passive>
+</PassiveXmlRoot>
